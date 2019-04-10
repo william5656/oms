@@ -4,7 +4,7 @@ This app is a portfolio management system created by University of Toronto SCS c
 
 # Wepage
 
-- Please Click on Guest
+- Enter by clicking on Guest
 
 https://bomsystem.herokuapp.com/
 
