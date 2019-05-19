@@ -2,12 +2,6 @@
 
 This app is a portfolio management system created by University of Toronto SCS coding bootcamp students for Barometer Capital Management
 
-# Wepage
-
-- Enter by clicking on Guest
-
-https://bomsystem.herokuapp.com/
-
 ## Table of Contents
 
 * [How it Works](#how-it-works)
